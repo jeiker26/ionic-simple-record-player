@@ -5,9 +5,9 @@ Example of audio recording and player. Boilerplate para Ionic4 + Angular7 + Sass
 ![alt text][logo]
 
 The construction of this example has 3 key modules: 
-- `src/shared/components/audio-capture-input/`: for recording. 
-- `src/shared/components/audio-track/`: for the player. 
-- `src/shared/ui-components/audio-capture-and-player/`: the union of both.
+- [`src/shared/components/audio-capture-input/`](https://github.com/jeiker26/ionic-simple-record-player/tree/master/src/shared/components/audio-capture-input): for recording. 
+- [`src/shared/components/audio-track/`](https://github.com/jeiker26/ionic-simple-record-player/tree/master/src/shared/components/audio-track): for the player. 
+- [`src/shared/ui-components/audio-capture-and-player/`](https://github.com/jeiker26/ionic-simple-record-player/tree/master/src/shared/ui-components/audio-capture-and-player): the union of both.
 
 ## Project
 
