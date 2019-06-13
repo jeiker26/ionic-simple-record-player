@@ -1,0 +1,8 @@
+{
+  "name": "app-front",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "272e1f05"
+}
