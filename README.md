@@ -106,4 +106,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 
-[logo]: https://github.com/jeiker26/ionic-simple-record-player/master/demo/demo.gif "Demo image"
+[logo]: https://github.com/jeiker26/ionic-simple-record-player/blob/master/demo/demo.gif "Demo image"
